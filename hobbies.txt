@@ -1,0 +1,5 @@
+music/  — playlists (deleted)
+movies/ — social network? maybe later
+books/  — see notes
+TODO: move all this off github
+cGFzc3dvcmQxMjM=
